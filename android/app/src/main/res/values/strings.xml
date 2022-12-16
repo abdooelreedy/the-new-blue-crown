@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Blue Crown</string>
+    <string name="facebook_app_id">1148015102522744</string>
+    <string name="facebook_client_token">6c6b0b0a84e5090f69dee78d6a9206aa</string>
+    <string name="fb_login_protocol_scheme">fb1148015102522744</string>
+</resources>
